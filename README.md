@@ -1,4 +1,4 @@
-# 🚀 Product Analytics & Machine Learning Portfolio
+# 🚀 Data Analytics & Machine Learning Portfolio
 ## 📌 Project Overview
 This repository showcases a comprehensive collection of data analytics and machine learning projects, bridging the gap between raw data orchestration and actionable business intelligence.
 
