@@ -1,35 +1,30 @@
-# 🚀 Data Analytics & Machine Learning Portfolio
-## 📌 Project Overview
-This repository showcases a comprehensive collection of data analytics and machine learning projects, bridging the gap between raw data orchestration and actionable business intelligence.
+🚀 Data Analytics & Machine Learning Portfolio (R)
+📌 Project Overview
+This repository showcases an end-to-end data analytics and machine learning workflow, bridging the gap between complex data orchestration and actionable business intelligence. It focuses on delivering evidence-based clarity for strategic decision-making.
 
-## 📂 Project Structure
-### 1. Predictive Modeling Lab 1: Big Data & Feature Engineering
-Core Achievement: Orchestrated a high-performance pipeline for 21.8 million GPS records.
+📂 Key Business Modules
+1. Retail Analysis: Customer Segmentation & Churn Prediction
+Core Achievement: Translated 500k+ transactional records into a strategic RFM framework and developed a Churn Prediction Model achieving 90.5% accuracy.
 
-Key Skills: Data Cleaning (removing noise/outliers), Haversine Distance Calculation, and Spatiotemporal Analysis.
+Business Value: Identifies high-value segments and detects at-risk customers to drive targeted retention growth.
 
-Business Value: Derived driver activity metrics and operational patterns for large-scale urban mobility.
+Interactive Visualization: Developed executive-level Tableau dashboards to provide a "Source of Truth" for customer health metrics.
 
-### 2. Predictive Modeling Lab 2: Risk Intelligence & Benchmarking
-Core Achievement: Benchmarked 5+ algorithms (Random Forest, SVM, Naive Bayes) for credit risk assessment.
+2. Big Data Pipeline: Scalable Data Orchestration
+Core Achievement: Orchestrated a high-performance pipeline to facilitate data linkage of 21.8M+ spatiotemporal records.
 
-Key Skills: Hyperparameter Tuning, PCA Dimensionality Reduction, and SOM Neural Networks.
+Key Skills: Data cleaning (noise/outlier removal), Feature Engineering, and high-speed processing using data.table and dplyr.
 
-Evaluation Metrics: Specialized in ROC/AUC analysis (SVM AUC: 0.8524) and Confidence-based Reject Options.
+Insight: Derived operational mobility metrics and driver activity patterns from raw unstructured data.
 
-### 3. Retail Analysis: RFM & Geo-temporal Insights
-Core Achievement: Translated 500k+ transactional records into a strategic RFM framework.
+3. Finance: Risk Intelligence & Model Benchmarking
+Core Achievement: Benchmarked multiple algorithms (SVM, Random Forest, Logistic Regression) for credit risk assessment.
 
-Key Skills: Customer Segmentation, Seasonal Trend Analysis, and Strategic Recommendation.
+Methodology: Specialized in PCA Dimensionality Reduction, Hyperparameter Tuning, and ROC/AUC analysis to ensure model robustness.
 
-## 📊 Business Intelligence & Visualization (Tableau)
-Interactive Dashboards: Developed executive-level Tableau dashboards to visualize RFM segments.
+🛠 Tech Stack
+Languages: R (data.table, dplyr, ggplot2, randomForest, e1071, kohonen).
 
-Visual Storytelling: Converted R-based statistical outputs into dynamic, drill-down visualizations for stakeholders.
+Tools: Tableau, SQL (BigQuery), Jira/Confluence.
 
-## 🛠 Tech Stack
-### Languages: R (data.table, dplyr, ggplot2, randomForest, e1071, kohonen).
-
-### Tools: Tableau.
-
-### Methodologies: Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation (ROC/AUC).
+Methodologies: Gap Analysis, RFM Modeling, BPMN 2.0, Supervised/Unsupervised Learning.
