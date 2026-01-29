@@ -1,31 +1,34 @@
-🚀 Data Analytics & Machine Learning Portfolio (R)
+# 🚀 Data Analytics & Machine Learning Portfolio (R)
 
-📌 Project Overview
-This repository showcases an end-to-end data analytics and machine learning workflow, bridging the gap between complex data orchestration and actionable business intelligence. It focuses on delivering evidence-based clarity for strategic decision-making.
+![R](https://img.shields.io/badge/Language-R-blue) ![Tableau](https://img.shields.io/badge/Tools-Tableau-orange) ![Accuracy](https://img.shields.io/badge/Model_Accuracy-90.5%25-green) ![License](https://img.shields.io/badge/Focus-Business_Intelligence-red)
 
-📂 Key Business Modules
-1. Retail Analysis: Customer Segmentation & Churn Prediction
-Core Achievement: Translated 500k+ transactional records into a strategic RFM framework and developed a Churn Prediction Model achieving 90.5% accuracy.
+## 📌 Project Overview
+This repository showcases an end-to-end data analytics and machine learning workflow. I bridge the gap between complex data orchestration and actionable business intelligence, delivering **evidence-based clarity** for strategic decision-making.
 
-Business Value: Identifies high-value segments and detects at-risk customers to drive targeted retention growth.
+---
 
-Interactive Visualization: Developed executive-level Tableau dashboards to provide a "Source of Truth" for customer health metrics.
+## 📂 Key Business Modules
 
-2. Big Data Pipeline: Scalable Data Orchestration
-Core Achievement: Orchestrated a high-performance pipeline to facilitate data linkage of 21.8M+ spatiotemporal records.
+### 1. Retail Analysis: Customer Segmentation & Churn Prediction
+* **🎯 Objective**: Translate raw transaction data into retention strategies.
+* **💡 Achievement**: Processed **500k+ records** into an RFM framework and developed a **Churn Prediction Model with 90.5% accuracy**.
+* **📊 Visualization**: Executive-level **Tableau dashboards** serving as a "Source of Truth" for customer health metrics.
 
-Key Skills: Data cleaning (noise/outlier removal), Feature Engineering, and high-speed processing using data.table and dplyr.
+### 2. Big Data Pipeline: Scalable Data Orchestration
+* **🎯 Objective**: Process high-velocity spatiotemporal data for urban mobility insights.
+* **🛠 Tech**: Orchestrated a high-performance pipeline for **21.8M+ GPS records** using `data.table` and `dplyr` in R.
+* **📈 Impact**: Derived driver activity patterns and operational mobility metrics from unstructured data.
 
-Insight: Derived operational mobility metrics and driver activity patterns from raw unstructured data.
+### 3. Finance: Risk Intelligence & Model Benchmarking
+* **🎯 Objective**: Optimize credit risk assessment through algorithmic benchmarking.
+* **🔬 Methodology**: Compared **SVM (AUC: 0.8524)**, Random Forest, and Naive Bayes; utilized **PCA** and **SOM Neural Networks** for dimensionality reduction.
 
-3. Finance: Risk Intelligence & Model Benchmarking
-Core Achievement: Benchmarked multiple algorithms (SVM, Random Forest, Logistic Regression) for credit risk assessment.
+---
 
-Methodology: Specialized in PCA Dimensionality Reduction, Hyperparameter Tuning, and ROC/AUC analysis to ensure model robustness.
+## 🛠 Tech Stack & Methodologies
+* **Languages**: R (Advanced), SQL (BigQuery).
+* **Tools**: Tableau, Jira/Confluence, MS Excel (Modeling).
+* **BA Frameworks**: **BPMN 2.0**, **Gap Analysis**, **SOA Architecture**, PMP Methodology.
 
-🛠 Tech Stack
-Languages: R (data.table, dplyr, ggplot2, randomForest, e1071, kohonen).
-
-Tools: Tableau, SQL (BigQuery), Jira/Confluence.
-
-Methodologies: Gap Analysis, RFM Modeling, BPMN 2.0, Supervised/Unsupervised Learning.
+---
+*Maintained by Yanhui Ma – Business Analyst & Operations Specialist*
