@@ -1,4 +1,4 @@
-# Retail Customer Segmentation & Propensity Modeling (Python/Tableau/R)
+# Retail Customer Segmentation & Propensity Modeling
 
 ## 📌 Project Overview
 This project analyzes **540k+ transactional records** from a UK-based online retailer to identify geographic and temporal sales patterns, segment customers using behavioral metrics, and build a predictive model to identify high-value potential customers.
