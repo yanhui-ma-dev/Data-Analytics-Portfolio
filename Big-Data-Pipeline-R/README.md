@@ -1,4 +1,4 @@
-# 📊 Advanced Data Mining Portfolio: Feature Engineering to Predictive Modeling
+# 📊 Retail Customer Segmentation & Propensity Modelling
 
 > **Executive Summary:** > This comprehensive portfolio integrates **Big Data Spatiotemporal Analytics** and **Financial Risk Predictive Modeling**. It demonstrates the end-to-end data science lifecycle—from orchestrating 21.8 million records of raw GPS data to benchmarking complex machine learning architectures for credit risk assessment.
 
